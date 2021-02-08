@@ -11,7 +11,7 @@
 
 <h2>Current Projects</h2>
 <ul>
-  <li><a href="https://epicbot.gq">EpicBot</a> - A simple, multipurpose Discord bot.</li>
+  <li><a href="https://epicbot.gq">EpicBot </a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
 <h2>My stats</h2>
