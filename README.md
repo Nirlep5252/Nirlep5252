@@ -16,7 +16,8 @@
 
 <h2>My stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=7289da&bg_color=121212">
+<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical&layout=compact">
 
 <h2>My Links</h2>
 
