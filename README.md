@@ -1,4 +1,4 @@
-<h1> Hi 👋</h1>
+<h1>👋 Hi</h1>
 
 <h3> I am Nirlep, I like to <a href="https://dis.gd/threads">code</a> sometimes.</h3>
 
@@ -15,12 +15,12 @@
   <li><a href="https://github.com/jaysBotDevelopment/">Jay's Development</a> - A development team.</li>
 </ul>
 
-<h2>My stats</h2>
+<h2>📊 My stats</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical&layout=compact">
 
-<h2>Stuff that I know</h2>
+<h2>🧠 Stuff that I know</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
