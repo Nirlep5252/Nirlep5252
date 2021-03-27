@@ -1,4 +1,4 @@
-<h1>Hi 👋</h1>
+<h1>Hi <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1>
 
 <h3> I am Nirlep, I like to <a href="https://dis.gd/threads">code</a> sometimes.</h3>
 
