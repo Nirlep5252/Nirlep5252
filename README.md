@@ -17,7 +17,7 @@
 
 <h2>My stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical&layout=compact">
 
 <h2>Stuff that I know</h2>
