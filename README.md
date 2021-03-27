@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1>
 
-<h3> I am Nirlep, I like to <a href="https://dis.gd/threads">code</a> sometimes.</h3>
+<h3> I am Nirlep, I like to <a href="https://dis.gd/threads">code</a> sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
 
 <h2>Some fun facts about me</h2>
 <ul>
