@@ -12,7 +12,6 @@
 <h2>Current Projects</h2>
 <ul>
   <li><a href="https://epic-bot.com">EpicBot 🏅</a> - A simple, multipurpose Discord bot.</li>
-  <li><a href="https://github.com/jaysBotDevelopment/">Jay's Development</a> - A development team.</li>
 </ul>
 
 <h2>My stats</h2>
