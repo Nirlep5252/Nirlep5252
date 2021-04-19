@@ -34,6 +34,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-<h2>My Links</h2>
+<h2>Contact</h2>
 
 <a href="https://discord.gg/Zj7h8Fp"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/Nirlep_5252_"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
