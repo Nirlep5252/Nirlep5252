@@ -14,11 +14,6 @@
   <li><a href="https://epic-bot.com">EpicBot 🏅</a> - A simple, multipurpose Discord bot.</li>
 </ul>
 
-<h2>My stats</h2>
-
-<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical&layout=compact">
-
 <h2>Stuff that I know</h2>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -37,3 +32,9 @@
 <h2>Contact</h2>
 
 <a href="https://discord.gg/Zj7h8Fp"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/Nirlep_5252_"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
+
+<h2>My stats</h2>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirlep5252&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical">
