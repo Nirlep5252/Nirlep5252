@@ -1,40 +1,44 @@
-<h1>Hi <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px"></h1>
+# ＼(＾▽＾*) Hello!
+<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
 
-<h3> I am Nirlep, I like to <a href="https://dis.gd/threads">code</a> sometimes. <img src="https://cdn.discordapp.com/emojis/762039243518115880.gif" height="20px"></h3>
+# 👋 I'm Nirlep
 
-<h2>Some fun facts about me</h2>
-<ul>
-  <li>I like playing chess.</li>
-  <li>I procrastinate a lot, yes.</li>
-  <li>Why are you even reading this idk what to type anymore.</li>
-</ul>
+### I'm a Python and Javascript developer! I like programming weird stuff [👀](https://dis.gd/threads)
 
-<h2>Current Projects</h2>
-<ul>
-  <li><a href="https://epic-bot.com">EpicBot 🏅</a> - A simple, multipurpose Discord bot.</li>
-</ul>
+- I'm currently working on [EpicBot](https://epic-bot.com)
+- I have been programming for 2 years!
+- I still don't know what I am doing.
+- Help.
 
-<h2>Stuff that I know</h2>
+### Technologies that I know!
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=flask)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 
-<h2>Contact</h2>
+### My Github statistics!
 
-<a href="https://discord.gg/Zj7h8Fp"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" height="50px"></a> <a href="https://twitter.com/Nirlep_5252_"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="50px"></a>
+<details>
+  <summary>Click to reveal</summary>
+  <div>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirlep5252&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical">
+  </div>
+</details>
 
-<h2>My stats</h2>
+<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nirlep5252&show_icons=true&theme=radical&count_private=true&include_all_commits=true">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirlep5252&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirlep5252&theme=radical">
+### Thank you for viewing my profile!
+
+#### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
