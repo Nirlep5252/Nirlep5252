@@ -5,7 +5,7 @@
 
 ### I'm a Python and Javascript developer! I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on [EpicBot](https://epic-bot.com) and [Mailhook](https://mailhook.netlify.app).
+- I'm currently working on [EpicBot](https://epic-bot.com) and [Mailhook](https://mail-hook.xyz/).
 - I have been programming for 2 years!
 - I still don't know what I am doing.
 - Help.
