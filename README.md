@@ -38,6 +38,12 @@
   </div>
 </details>
 
+### Contact me
+
+<a href="https://discord.com/users/558861606063308822"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902790616864415744/discord_logo.png" /></a>
+<a href="https://twitter.com/Nirlep_5252_"><img height="50px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
+<a href="mailto:teamepicbot@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
+
 <div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
 
 ### Thank you for viewing my profile!
