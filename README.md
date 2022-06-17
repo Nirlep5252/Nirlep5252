@@ -1,5 +1,5 @@
 # ＼(＾▽＾*) Hello!
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593696934154240/cool_background_thing_lol.gif"></div>
+<div align="center"><img src="https://web.archive.org/web/20211129124306if_/https://camo.githubusercontent.com/fda0ab1bc1204a14fc12df965badd4cbb7c4e98c73ef8042de5d9b11208d0ff5/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835393333353234373534373939303032362f3838323539333639363933343135343234302f636f6f6c5f6261636b67726f756e645f7468696e675f6c6f6c2e676966"></div>
 
 # 👋 I'm Nirlep
 
@@ -43,7 +43,7 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 <a href="https://twitter.com/Nirlep_5252_"><img height="50px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
 <a href="mailto:teamepicbot@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
+<div align="center"><img src="https://web.archive.org/web/20211129124325if_/https://camo.githubusercontent.com/6568fca1d4b347402802b45a502760fb0cd72cf6c08c7259dc3cb99262eb64ed/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835393333353234373534373939303032362f3838323539333036393230363232393031322f6d795f6c6966652e676966"></div>
 
 ### Thank you for viewing my profile!
 
