@@ -5,8 +5,8 @@
 
 I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-- I'm currently working on **JEEFlow** (coming soon).
-- I have been programming for 2 years!
+- I'm currently working on nothing.
+- I have been programming for 3 years!
 - I still don't know what I am doing.
 - Help.
 
@@ -41,7 +41,6 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
 ### Contact me
 
 <a href="https://twitter.com/Nirlep_5252_"><img height="50px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
-<a href="mailto:teamepicbot@gmail.com"><img height="50px" src="https://cdn.discordapp.com/attachments/859335247547990026/902794064863326228/gmail_logo_better.png" /></a>
 
 <div align="center"><img src="https://web.archive.org/web/20211129124325if_/https://camo.githubusercontent.com/6568fca1d4b347402802b45a502760fb0cd72cf6c08c7259dc3cb99262eb64ed/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835393333353234373534373939303032362f3838323539333036393230363232393031322f6d795f6c6966652e676966"></div>
 
