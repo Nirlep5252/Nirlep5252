@@ -1,14 +1,10 @@
-# ＼(＾▽＾*) Hello!
-<div align="center"><img src="https://web.archive.org/web/20211129124306if_/https://camo.githubusercontent.com/fda0ab1bc1204a14fc12df965badd4cbb7c4e98c73ef8042de5d9b11208d0ff5/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835393333353234373534373939303032362f3838323539333639363933343135343234302f636f6f6c5f6261636b67726f756e645f7468696e675f6c6f6c2e676966"></div>
 
-# 👋 I'm Nirlep
 
-I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+<div><img src="https://i.imgur.com/GNzMBPT.jpeg"></div>
 
-- I'm currently working on nothing.
-- I have been programming for 3 years!
-- I still don't know what I am doing.
-- Help.
+# Hello! 👋 I'm Nirlep
+
+I am from India and I have been programming for 3 years, I make a lot of things but mainly web apps, and sometimes desktop apps. I also have experience building APIs and command line apps. To know more about me feel free to join my [Discord Server](https://discord.gg/9rYbc54KtY).
 
 ### Technologies that I know!
 
@@ -38,8 +34,10 @@ I like programming weird stuff [👀](https://www.youtube.com/watch?v=dQw4w9WgXc
   </div>
 </details>
 
-<div align="center"><img src="https://web.archive.org/web/20211129124325if_/https://camo.githubusercontent.com/6568fca1d4b347402802b45a502760fb0cd72cf6c08c7259dc3cb99262eb64ed/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3835393333353234373534373939303032362f3838323539333036393230363232393031322f6d795f6c6966652e676966"></div>
+### Contact me!
+
+<a href="https://twitter.com/Nirlep_5252_"><img height="50px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" /></a>
+<a href="https://discord.com/users/985195003414474794"><img height="50px" src="https://pnggrid.com/wp-content/uploads/2021/05/Discord-Logo-Circle-1024x1024.png" /></a>
+<a href="https://www.reddit.com/user/Nirlep_5252_"><img height="50px" src="https://seeklogo.com/images/R/reddit-logo-23F13F6A6A-seeklogo.com.png" /></a>
 
 ### Thank you for viewing my profile!
-
-#### 🎨 Art by **[Kirokaze](https://kirokazepixel.tumblr.com/)**
