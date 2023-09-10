@@ -1,4 +1,4 @@
-<img align="right" height="700px" src="https://i.redd.it/inspired-by-a-meme-i-saw-v0-81a1fac03tza1.png?s=41ee741c58881dfca49bcbd674280b05e5c69461" />
+<img align="right" height="600px" src="https://i.redd.it/inspired-by-a-meme-i-saw-v0-81a1fac03tza1.png?s=41ee741c58881dfca49bcbd674280b05e5c69461" />
 
 # 👋 Hey, I'm Nirlep!
 
