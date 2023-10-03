@@ -14,8 +14,8 @@
 
 ## Recent blogs:
 
-- [My Journey from Windows to Arch Linux](https://website-nirlep5252.vercel.app/posts/arch-btw)
-- [My first hackathon experience](https://website-nirlep5252.vercel.app/posts/hackathon-experience)
+- [My Journey from Windows to Arch Linux](https://nirlep.dev/posts/arch-btw)
+- [My first hackathon experience](https://nirlep.dev/posts/hackathon-experience)
 
 ## Skills:
 
