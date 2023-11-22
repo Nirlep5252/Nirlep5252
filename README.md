@@ -8,6 +8,7 @@
 
 ## Recent projects:
 
+- [EpicShot](https://github.com/Nirlep5252/EpicShot) - Epic screenshot tool for Linux.
 - [DoggyType](https://github.com/nirlep5252/doggytype) - A terminal typing test game written in Rust.
 - [Codeforces CLI](https://github.com/nirlep5252/codeforces-cli) - A CLI tool for codeforces written in Python.
 - [EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
