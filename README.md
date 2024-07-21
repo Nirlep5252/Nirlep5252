@@ -3,15 +3,17 @@
 # 👋 Hey, I'm Nirlep!
 
 - I am a 3rd year CS student @ [Nirma University](https://nirmauni.ac.in/)
-- I ❤️ building terminal apps, web apps, and APIs.
-- I use arch btw.
+- I ❤️ building terminal apps, web apps, APIs and solving problems.
+- I use NixOS btw.
 
 ## Recent projects:
 
-- [EpicShot](https://github.com/Nirlep5252/EpicShot) - Epic screenshot tool for Linux.
-- [DoggyType](https://github.com/nirlep5252/doggytype) - A terminal typing test game written in Rust.
+- [MashCode](https://github.com/Nirlep5252/MashCode) - Competitive Programming platform with LIVE 1v1s.
+- [Brilliant++](https://github.com/Nirlep5252/brilliant-plus-plus) - AI powered education platform.
 - [Codeforces CLI](https://github.com/nirlep5252/codeforces-cli) - A CLI tool for codeforces written in Python.
 - [EpicBot](https://github.com/Nirlep5252/EpicBot) - A simple, multipurpose Discord bot.
+- [DoggyType](https://github.com/nirlep5252/doggytype) - A terminal typing test game written in Rust.
+- [EpicShot](https://github.com/Nirlep5252/EpicShot) - Epic screenshot tool for Linux written in Rust.
 
 ## Recent blogs:
 
