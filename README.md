@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Nirlep!
 
-- I am a 3rd year CS student @ [Nirma University](https://nirmauni.ac.in/)
+- I am a 4th year CS student @ [Nirma University](https://nirmauni.ac.in/)
 - I ❤️ building terminal apps, web apps, APIs and solving problems.
 - I use NixOS btw.
 
