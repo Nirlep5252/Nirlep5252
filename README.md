@@ -37,5 +37,5 @@ I ❤️ building terminal apps, web apps, APIs and solving problems.
 <div>
   <a href="https://discord.gg/9rYbc54KtY"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a69f118df70ad7828d4_icon_clyde_blurple_RGB.svg" height="50px" /></a>
   <a href="https://www.linkedin.com/in/nirlep5252/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="50px" /></a>
-  <a href="https://x.com/nirlep_5252_"><img src="https://seeklogo.com/images/T/twitter-x-logo-0339F999CF-seeklogo.com.png?v=638264860180000000" height="50px" /></a>
+  <a href="https://x.com/nirlep_5252_"><img src="https://storage.googleapis.com/nirlep/logos/x.png" height="50px" /></a>
 </div>
