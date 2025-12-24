@@ -6,6 +6,7 @@ I ❤️ building terminal apps, web apps, APIs and solving problems.
 
 ## Recent projects:
 
+- [formality.life](https://formality.life) - An image hosting platform. Designed to be used with ShareX. 
 - [MashCode](https://github.com/Nirlep5252/MashCode) - Competitive Programming platform with LIVE 1v1s.
 - [Brilliant++](https://github.com/Nirlep5252/brilliant-plus-plus) - AI powered education platform.
 - [Codeforces CLI](https://github.com/nirlep5252/codeforces-cli) - A CLI tool for codeforces written in Python.
