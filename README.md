@@ -7,7 +7,8 @@ I ❤️ building terminal apps, web apps, APIs and solving problems.
 ## Recent projects:
 
 - [bond](https://bondbot.gg) - Discord agent.
-- [walk](https://github.com/nirlep5252/walk) - A minimal, performant launcher for Windows. 
+- [walk](https://github.com/nirlep5252/walk) - A minimal, performant launcher for Windows.
+- [CodexBarWindows](https://github.com/nirlep5252/CodexBarWindows) - A minimal, Windows port of the original [CodexBar](https://github.com/steipete/CodexBar)
 - [formality.life](https://formality.life) - An image hosting platform. Designed to be used with ShareX. 
 - [MashCode](https://github.com/Nirlep5252/MashCode) - Competitive Programming platform with LIVE 1v1s.
 - [Brilliant++](https://github.com/Nirlep5252/brilliant-plus-plus) - AI powered education platform.
